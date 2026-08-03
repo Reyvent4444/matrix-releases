@@ -5,8 +5,7 @@ periféricos gaming) y el manifiesto de versión (`latest.json`) que usa el prop
 buscar actualizaciones.
 
 **No hay código fuente acá.** El proyecto real vive en un repositorio privado aparte — este repo
-existe únicamente para que la app (y quien la use) pueda descargar la versión más reciente sin
-tener que compartir el código.
+existe únicamente para que la app (y quien la use) pueda descargar la versión más reciente.
 
 ## Cómo actualiza la app
 
